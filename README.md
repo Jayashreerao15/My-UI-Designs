@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20a%20Kaleidoscope%20of%20Design%20and%20Experience!&animation=twinkling&fontSize=30&fontAlignY=39">
 </p>
-<h2 align="left"> Introduction</h2>
+<h2 align="center"> 🎨 Welcome to my UI/UX playground on GitHub! 🚀</h2>
 
-<p align="justified">
-  
-🎨 Welcome to my UI/UX playground on GitHub! 🚀
+<p align="justify">
 
 Hey there! 👋 I'm Jayashree Rao, a passionate A.I. Engineer and UI/UX Designer dedicated to crafting delightful digital experiences. Here, you'll find a collection of my projects where I blend creativity with functionality to create intuitive user interfaces and engaging user experiences.
 

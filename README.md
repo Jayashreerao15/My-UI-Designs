@@ -21,12 +21,6 @@ Explore my repository to discover a diverse range of UI/UX projects
 I'm always open to collaboration and feedback! Feel free to reach out for inquiries, collaboration opportunities, or just to say hello. Let's create something extraordinary together!
 </p><br>
 
-<h2 align="left">Table of Contents</h2>
-<p align="justified">
-  1. Adobe XD UX Design<br>
-  2. Canva Design<br>
-  3. Figma UI Design<br>
-</p>
 <p align="center">
    <br><img src="https://github.com/Jayashreerao15/My-UI-Designs/blob/main/win.gif"></br>
 </p>
